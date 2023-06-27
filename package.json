@@ -1,0 +1,23 @@
+{
+  "name": "condtesst",
+  "version": "1.0.0",
+  "description": "1. Install Node.js\r 2. Open a terminal or command prompt and cd to the project folder\r 3. Initialize the project:\r     npm init -y\r     npm install cypress\r 4. Run Cypress tests: npx cypress run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kietngo842/conduit_automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kietngo842/conduit_automation/issues"
+  },
+  "homepage": "https://github.com/kietngo842/conduit_automation#readme",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}

@@ -2,7 +2,9 @@
 
 1. Install Node.js
 2. Open a terminal or command prompt and cd to the project folder
-3. Install project dependencies: npm install
+3. Initialize the project:
+    npm init -y
+    npm install cypress
 4. Run Cypress tests: npx cypress run
 
 Note:
